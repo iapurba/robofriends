@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Robofriends
+This is a simple fun web-project using [React](https://reactjs.org/) framework.
+
+In order to run this project follow these steps:
+
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm start` 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
